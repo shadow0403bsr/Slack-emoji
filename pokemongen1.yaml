@@ -1,0 +1,304 @@
+title: pokemongen1
+emojis:
+  - name: bulbasaur
+    src: https://i.imgur.com/UoDyPqH.png
+  - name: ivysaur
+    src: https://i.imgur.com/0zkxEPz.png
+  - name: venusaur 
+    src: https://i.imgur.com/lW42q46.png
+  - name: charmander 
+    src: https://i.imgur.com/31XeArX.png
+  - name: charmeleon 
+    src: https://i.imgur.com/Xzl67sa.png
+  - name: charizard 
+    src: https://i.imgur.com/nm4JP96.png
+  - name: squirtle 
+    src: https://i.imgur.com/1rXcFGN.png
+  - name: wartortle 
+    src: https://i.imgur.com/LdMoaSq.png
+  - name: blastoise 
+    src: https://i.imgur.com/nwCCa95.png
+  - name: caterpie 
+    src: https://i.imgur.com/P5CMW1n.png
+  - name: metapod 
+    src: https://i.imgur.com/LYe88xY.png
+  - name: butterfree 
+    src: https://i.imgur.com/Qz8EkXV.png
+  - name: weedle 
+    src: https://i.imgur.com/gNqky4y.png
+  - name: kakuna 
+    src: https://i.imgur.com/hUG9wGe.png
+  - name: beedrill 
+    src: https://i.imgur.com/cBvTCa9.png
+  - name: pidgey 
+    src: https://i.imgur.com/BpXVEgx.png
+  - name: pidgeotto 
+    src: https://i.imgur.com/N4eA7Zo.png
+  - name: pidgeot 
+    src: https://i.imgur.com/axb95E7.png
+  - name: rattata 
+    src: https://i.imgur.com/HwZNulj.png
+  - name: raticate 
+    src: https://i.imgur.com/6Yonz1b.png
+  - name: spearow 
+    src: https://i.imgur.com/r4dbCTT.png
+  - name: fearow 
+    src: https://i.imgur.com/tmMhQ1B.png
+  - name: ekans 
+    src: https://i.imgur.com/V141G8D.png
+  - name: arbok 
+    src: https://i.imgur.com/AwZglnc.png
+  - name: pikachu 
+    src: https://i.imgur.com/PePuG3Y.png
+  - name: raichu 
+    src: https://i.imgur.com/a9858hu.png
+  - name: sandshrew 
+    src: https://i.imgur.com/n3heedC.png
+  - name: sandslash 
+    src: https://i.imgur.com/VmPqfZx.png
+  - name: nidoranf 
+    src: https://i.imgur.com/kiY2EPx.png
+  - name: nidorina 
+    src: https://i.imgur.com/4nxG1Vm.png
+  - name: nidoqueen 
+    src: https://i.imgur.com/LdCfb4l.png
+  - name: nidoranm 
+    src: https://i.imgur.com/XMdYyZz.png
+  - name: nidorino 
+    src: https://i.imgur.com/7u7c1am.png
+  - name: nidoking 
+    src: https://i.imgur.com/gS7rg3i.png
+  - name: clefairy 
+    src: https://i.imgur.com/aP4XwYt.png
+  - name: clefable 
+    src: https://i.imgur.com/hzsDFXj.png
+  - name: vulpix 
+    src: https://i.imgur.com/1ZHI86B.png
+  - name: ninetales 
+    src: https://i.imgur.com/L0vNs4N.png
+  - name: jigglypuff 
+    src: https://i.imgur.com/uFbcYR8.png
+  - name: wigglytuff 
+    src: https://i.imgur.com/SmqKUEZ.png
+  - name: zubat 
+    src: https://i.imgur.com/4irsbL0.png
+  - name: golbat 
+    src: https://i.imgur.com/5C0XkYM.png
+  - name: oddish 
+    src: https://i.imgur.com/xNWtPZx.png
+  - name: gloom 
+    src: https://i.imgur.com/nsPZFDV.png
+  - name: vileplume 
+    src: https://i.imgur.com/BXy0gzl.png
+  - name: paras 
+    src: https://i.imgur.com/W1h6ufp.png
+  - name: parasect 
+    src: https://i.imgur.com/ydQBd5G.png
+  - name: venonat 
+    src: https://i.imgur.com/gkwFZ5M.png
+  - name: venomoth 
+    src: https://i.imgur.com/7DhG3vf.png
+  - name: diglett 
+    src: https://i.imgur.com/z2ECfhH.png
+  - name: dugtrio 
+    src: https://i.imgur.com/a1fIxiS.png
+  - name: meowth 
+    src: https://i.imgur.com/rPEKZaC.png
+  - name: persian 
+    src: https://i.imgur.com/dWCvdMe.png
+  - name: psyduck 
+    src: https://i.imgur.com/JLrW78K.png
+  - name: golduck 
+    src: https://i.imgur.com/fLyD8Fq.png
+  - name: mankey 
+    src: https://i.imgur.com/r7IxBNM.png
+  - name: primeape 
+    src: https://i.imgur.com/DenuRt5.png
+  - name: growlithe 
+    src: https://i.imgur.com/T006hqb.png
+  - name: arcanine 
+    src: https://i.imgur.com/amPSDQ1.png
+  - name: poliwag 
+    src: https://i.imgur.com/ggFbXpy.png
+  - name: poliwhirl 
+    src: https://i.imgur.com/MmTdyek.png
+  - name: poliwrath 
+    src: https://i.imgur.com/43kzyKi.png
+  - name: abra 
+    src: https://i.imgur.com/Zb46Jrz.png
+  - name: kadabra 
+    src: https://i.imgur.com/qvdFQzI.png
+  - name: alakazam 
+    src: https://i.imgur.com/lfn14PO.png
+  - name: machop 
+    src: https://i.imgur.com/LO6NAXA.png
+  - name: machoke 
+    src: https://i.imgur.com/pTAujJA.png
+  - name: machamp 
+    src: https://i.imgur.com/FhVnvbk.png
+  - name: bellsprout 
+    src: https://i.imgur.com/5u29IrH.png
+  - name: weepinbell 
+    src: https://i.imgur.com/J4mKQjy.png
+  - name: victreebell 
+    src: https://i.imgur.com/j0Jws9O.png
+  - name: tentacool 
+    src: https://i.imgur.com/CIyj8QP.png
+  - name: tentacruel 
+    src: https://i.imgur.com/8NGe9CT.png
+  - name: geodude 
+    src: https://i.imgur.com/zZDBc6f.png
+  - name: graveler 
+    src: https://i.imgur.com/jcBwCQI.png
+  - name: golem 
+    src: https://i.imgur.com/SA6wV45.png
+  - name: ponyta 
+    src: https://i.imgur.com/Oo9LLct.png
+  - name: rapidash 
+    src: https://i.imgur.com/92vMYyM.png
+  - name: slowpoke 
+    src: https://i.imgur.com/4vswJTg.png
+  - name: slowbro 
+    src: https://i.imgur.com/I1OV5gG.png
+  - name: magnemite 
+    src: https://i.imgur.com/p614mDG.png
+  - name: magneton 
+    src: https://i.imgur.com/eDFHWFm.png
+  - name: farfetch'd 
+    src: https://i.imgur.com/gOaLbjK.png
+  - name: doduo 
+    src: https://i.imgur.com/h80JdTL.png
+  - name: dodrio 
+    src: https://i.imgur.com/sZWWtQn.png
+  - name: seel 
+    src: https://i.imgur.com/TeUaE4u.png
+  - name: dewgong
+    src: https://i.imgur.com/vVZeuju.png
+  - name: grimer 
+    src: https://i.imgur.com/RLPc4DM.png
+  - name: muk 
+    src: https://i.imgur.com/sAdCzKR.png
+  - name: shellder 
+    src: https://i.imgur.com/cigBX3W.png
+  - name: cloyster 
+    src: https://i.imgur.com/bm2Dmbx.png
+  - name: gastly 
+    src: https://i.imgur.com/nF9uHQ9.png
+  - name: haunter 
+    src: https://i.imgur.com/Pu8dJcM.png
+  - name: gengar 
+    src: https://i.imgur.com/hcCBkP1.png
+  - name: onix 
+    src: https://i.imgur.com/JIUBIv5.png
+  - name: drowzee 
+    src: https://i.imgur.com/KasEPQ0.png
+  - name: hypno 
+    src: https://i.imgur.com/feZoJaW.png
+  - name: krabby 
+    src: https://i.imgur.com/ZnhEZxQ.png
+  - name: kingler 
+    src: https://i.imgur.com/sB9cxMd.png
+  - name: voltorb 
+    src: https://i.imgur.com/FxpImL6.png 
+  - name: electrode 
+    src: https://i.imgur.com/yzggkb1.png
+  - name: exeggcute 
+    src: https://i.imgur.com/i1wqui2.png 
+  - name: exeggutor 
+    src: https://i.imgur.com/0rMLt5x.png
+  - name: cubone 
+    src: https://i.imgur.com/FA65LKT.png
+  - name: marowak 
+    src: https://i.imgur.com/6EyVfNg.png
+  - name: hitmonlee 
+    src: https://i.imgur.com/fW2bYyl.png
+  - name: hitmonchan 
+    src: https://i.imgur.com/dmW8GUF.png
+  - name: lickitung 
+    src: https://i.imgur.com/jCEzWrE.png
+  - name: koffing 
+    src: https://i.imgur.com/Cp3LySL.png
+  - name: weezing 
+    src: https://i.imgur.com/mL3nKre.png
+  - name: rhyhorn 
+    src: https://i.imgur.com/NhVIyin.png
+  - name: rhydon 
+    src: https://i.imgur.com/jrF8Kok.png
+  - name: chansey 
+    src: https://i.imgur.com/YXqvQ38.png
+  - name: tangela 
+    src: https://i.imgur.com/Cf3MOHN.png 
+  - name: kangaskhan 
+    src: https://i.imgur.com/AmfMlfe.png
+  - name: horsea 
+    src: https://i.imgur.com/xdtesZs.png
+  - name: seadra 
+    src: https://i.imgur.com/zr2zt5U.png
+  - name: goldeen 
+    src: https://i.imgur.com/bNzZC2p.png
+  - name: seaking 
+    src: https://i.imgur.com/e5hMlyj.png
+  - name: staryu 
+    src: https://i.imgur.com/zkBYqzB.png
+  - name: starmie 
+    src: https://i.imgur.com/NGNaE04.png
+  - name: mrmime 
+    src: https://i.imgur.com/GU6pYQr.png
+  - name: scyther 
+    src: https://i.imgur.com/CcdLRhy.png
+  - name: jynx 
+    src: https://i.imgur.com/GJ9kOuc.png
+  - name: electabuzz 
+    src: https://i.imgur.com/bgjxliY.png
+  - name: magmar 
+    src: https://i.imgur.com/ezjzWLF.png
+  - name: pinsir 
+    src: https://i.imgur.com/e9uBS6F.png
+  - name: tauros 
+    src: https://i.imgur.com/uAZt0nq.png
+  - name: magikarp 
+    src: https://i.imgur.com/7MAf4Il.png
+  - name: gyarados 
+    src: https://i.imgur.com/CQulIWh.png
+  - name: lapras 
+    src: https://i.imgur.com/ygJAK7b.png
+  - name: ditto 
+    src: https://i.imgur.com/mmknQ2q.png 
+  - name: eevee 
+    src: https://i.imgur.com/Z0sJd72.png
+  - name: vaporeon 
+    src: https://i.imgur.com/3rxa3fM.png
+  - name: jolteon 
+    src: https://i.imgur.com/ULtgQob.png
+  - name: flareon 
+    src: https://i.imgur.com/ROE15w3.png
+  - name: porygon 
+    src: https://i.imgur.com/Iyn8gWR.png
+  - name: omanyte 
+    src: https://i.imgur.com/BUy8BI4.png
+  - name: omastar 
+    src: https://i.imgur.com/MQesSCa.png
+  - name: kabuto 
+    src: https://i.imgur.com/WaRSYvp.png
+  - name: kabutops 
+    src: https://i.imgur.com/inKUZOE.png
+  - name: aerodactyl 
+    src: https://i.imgur.com/xh3J5V1.png
+  - name: snorlax 
+    src: https://i.imgur.com/Rso28SN.png
+  - name: articuno 
+    src: https://i.imgur.com/HWQXR9r.png
+  - name: zapdos 
+    src: https://i.imgur.com/RIrzwd4.png
+  - name: moltres 
+    src: https://i.imgur.com/yGjpK03.png
+  - name: dratini  
+    src: https://i.imgur.com/3oV21oc.png
+  - name: dragonair 
+    src: https://i.imgur.com/snIKqvk.png
+  - name: dragonite 
+    src: https://i.imgur.com/ulaa1LL.png
+  - name: mewtwo 
+    src: https://i.imgur.com/mI1dg6L.png
+  - name: mew 
+    src: https://i.imgur.com/Z78RoY9.png
